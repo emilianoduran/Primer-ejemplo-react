@@ -1,3 +1,30 @@
+# Primer Proyecto con React.js
+Este proyecto correspone al curso: [React - La Guía Completa - Hooks Redux Context +15 Proyectos](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/)
+
+**Creatdo por:** Juan Pablo De la torre Valdez
+
+## Conceptos aprendidos en este proyecto.
+
+- Extensiones y configuraciones previas.
+- Estructura básica de un proyecto con React.js.
+- Crear una aplicación de react utilizando `create-react-app`.
+- React sin jsx.
+- React con jsx.
+- Qué son los componentes en React.
+- Creando un componete funcional. 
+- Creando más componentes.
+- introducción al state de React.
+- Iterando el state y llamando los componentes.
+- Mostrando el contenido en el componente.
+- Métodos del ciclo de vida del componente.
+
+
+## Extensiones y configuraciones previas.
+
+A lo largo de este curso necesitaremos algunas extenciones que nos faciliten la escritura de código en react. En mi caso utilizo [Visual Studio code](https://code.visualstudio.com/)                         
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
