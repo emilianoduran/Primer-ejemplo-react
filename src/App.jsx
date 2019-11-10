@@ -4,10 +4,10 @@ import FooterComponent from './components/Footer/FooterComponents';
 import ProductListComponent from './components/Products/ProductListComponent/ProductListComponent';
 
 function App() {
-  const menu=["product"]
+ 
     return (
     <Fragment>
-      <Header title="My Brand" items={menu}></Header>
+      <Header title="My Brand"></Header>
       {/* <MainComponent> </MainComponent> */}
       <ProductListComponent></ProductListComponent>
       <FooterComponent titleFooter="My Brand"></FooterComponent>
