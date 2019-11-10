@@ -1,0 +1,23 @@
+.tinny {
+    font-size: 16px;
+}
+
+.footer-copyright {
+    margin: 0 auto;
+}
+
+.footer-container {
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copy__wrapper {
+    display: flex;
+    align-items: center;
+    i {
+        margin: 0 5px;
+    }
+}

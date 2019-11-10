@@ -19,10 +19,8 @@ Este proyecto correspone al curso: [React - La Guía Completa - Hooks Redux Cont
 - Métodos del ciclo de vida del componente.
 
 
-## Extensiones y configuraciones previas.
-
-A lo largo de este curso necesitaremos algunas extenciones que nos faciliten la escritura de código en react. En mi caso utilizo [Visual Studio code](https://code.visualstudio.com/)                         
-
+               
+# Create react app original doc
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
